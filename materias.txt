@@ -1,0 +1,63 @@
+        ^
+gcu-api::MAUVE=> select * from materia;
+ id  | codigo |                              nombre
+-----+--------+------------------------------------------------------------------
+ 111 |    939 | Física I
+ 112 |    861 | Análisis Matemático I
+ 113 |    742 | Matemática Discreta I
+ 114 |    743 | Estructuras de Datos I
+ 115 |    862 | Algebra I
+ 116 |    591 | Problemas de Historia del Siglo 20
+ 117 |    592 | Taller de Introducción a la Problemática del Mundo Contemporáneo
+ 121 |    942 | Física II
+ 122 |    941 | Análisis Matemático II
+ 123 |    744 | Matemática Discreta II
+ 124 |    745 | Lenguaje de Programación I
+ 125 |    952 | Algebra II
+ 126 |      2 | Cultura Contemporánea
+ 127 |    592 | Taller de Introducción a la Problemática del Mundo Contemporáneo
+ 211 |    746 | Probabilidad y Estadística I
+ 212 |    943 | Análisis Matemático III
+ 213 |    747 | Estructuras de Datos II
+ 214 |    748 | Teoría de Sistemas
+ 215 |    749 | Lenguaje de Programación II
+ 216 |      3 | Cuestiones de Sociología, Economía y Política
+ 221 |    750 | Física III
+ 222 |    751 | Probabilidad y Estadística II
+ 223 |    752 | Arquitectura de Computadoras
+ 224 |    753 | Estructuras de Datos III
+ 225 |    754 | Análisis y Diseño Estructurado
+ 226 |    104 | Investigación Operativa
+ 311 |    755 | Química
+ 312 |    756 | Bases de Datos I
+ 313 |    757 | Teoría de la Información
+ 314 |    758 | Lenguaje de Programación III
+ 315 |      1 | Metodología de la Información
+ 316 |    759 | Inglés Básico
+ 321 |    760 | Análisis y Diseño Orientado a Objetos
+ 322 |    761 | Bases de Datos II
+ 323 |    762 | Sistemas Operativos
+ 324 |    763 | Lenguaje de Programación IV
+ 325 |    764 | Teleinformática
+ 326 |    765 | Inglés Técnico
+ 411 |    766 | Análisis y Diseño de Sistemas en Tiempo Real
+ 412 |    767 | Compiladores e Intérpretes
+ 413 |    768 | Procesos Estocásticos
+ 414 |    769 | Ingeniería en Software
+ 415 |    770 | Procesamiento de Señales I
+ 421 |    771 | Simulación de Sistemas
+ 422 |    772 | Seguridad Informática
+ 423 |    773 | Inteligencia Artificial
+ 424 |    774 | Procesamiento de Imágenes
+ 425 |    775 | Circuitos Electrónicos
+ 511 |   1101 | Sistemas de Adquisición de Datos
+ 512 |    777 | Bioinformática
+ 513 |    778 | Robótica
+ 514 |    779 | Laboratorio de Electrónica
+ 515 |    780 | Informática Médica
+ 521 |    781 | Software Legal
+ 522 |    782 | Procesamiento de Señales II
+ 523 |    783 | Auditoría de Sistemas
+ 524 |    784 | Informática Industrial
+ 525 |    785 | Trabajo de Tesis
+(58 rows)
